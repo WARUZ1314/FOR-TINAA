@@ -1,10 +1,10 @@
-@media (min-width: 290px) and (max-width: 840px) {
+@media (min-width: 290px) and (max-width: 1000px) {
     .ml1 {
-        margin-top: 45%;
+        margin-top: 50%;
     }
 
     .kontener2 {
-        padding: 10px;
+        padding: 12px;
         text-align: center;
         margin-top: 60%;
     }
