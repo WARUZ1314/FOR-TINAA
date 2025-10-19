@@ -39,10 +39,10 @@
 }
 
 .ml2 {
-    color: #404040;
+    color: #171616;
     font-family: 'Poppins', sans-serif;
-    font-weight: 700;
-    font-size: 1em;
+    font-weight: 500;
+    font-size: 0.6em;
 }
 
 .ml2 .letter {
@@ -50,3 +50,4 @@
     line-height: 1em;
 
 }
+
