@@ -268,11 +268,12 @@ section.after {
   -webkit-transition-delay: 0.15s;
 }
 
-/*Pictures Width Range on Different Devices*/
 .gambar {
-  width: 100vw;
-  height: 100vh;
-  object-fit: cover; /* fills the screen, may crop edges */
+  display: block;
+  margin: 0 auto;      /* centres the image */
+  width: 100%;         /* takes full width of its container */
+  max-width: 500px;    /* set your preferred max size */
+  height: auto;        /* keeps proportions */
 }
 
 
