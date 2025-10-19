@@ -270,11 +270,11 @@ section.after {
 
 /*Pictures Width Range on Different Devices*/
 .gambar {
-  display: block;
   width: 100vw;
   height: 100vh;
-  object-fit: contain;
+  object-fit: cover; /* fills the screen, may crop edges */
 }
+
 
 /*Animasi Bekgron*/
 @keyframes animasiBegron {
