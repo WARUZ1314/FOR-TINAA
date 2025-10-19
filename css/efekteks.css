@@ -2,8 +2,8 @@
     margin-top: 10%;
     color: #404040;
     font-family: 'Poppins', sans-serif;
-    font-weight: 900;
-    font-size: 1.2em;
+    font-weight: 800;
+    font-size: 0.8em;
 }
 
 
@@ -39,10 +39,10 @@
 }
 
 .ml2 {
-    color: #171616;
+    color: #404040;
     font-family: 'Poppins', sans-serif;
-    font-weight: 500;
-    font-size: 0.6em;
+    font-weight: 800;
+    font-size: 0.8em;
 }
 
 .ml2 .letter {
@@ -50,4 +50,5 @@
     line-height: 1em;
 
 }
+
 
