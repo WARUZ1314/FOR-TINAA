@@ -270,48 +270,11 @@ section.after {
 
 /*Pictures Width Range on Different Devices*/
 .gambar {
-    display: block;
-    margin: auto;
-    width: 100%;
-    max-width: 200px; /* Default size */
-    height: auto;
-  }
-
-  @media (min-width: 300px) {
-    .gambar {
-      max-width: 300px;
-    }
-  }
-
-  @media (min-width: 400px) {
-    .gambar {
-      max-width: 300px;
-    }
-  }
-
-@media (min-width: 500px) {
-    .gambar {
-      max-width: 300px;
-    }
-  }
-
-@media (min-width: 600px) {
-    .gambar {
-      max-width: 300px;
-    }
-  }
-
-@media (min-width: 700px) {
-    .gambar {
-      max-width: 300px;
-    }
-  }
-
-@media (min-width: 800px) {
-    .gambar {
-      max-width: 300px;
-    }
-  }
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  object-fit: contain;
+}
 
 /*Animasi Bekgron*/
 @keyframes animasiBegron {
