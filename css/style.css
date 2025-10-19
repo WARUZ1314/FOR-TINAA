@@ -285,31 +285,31 @@ section.after {
 
   @media (min-width: 400px) {
     .gambar {
-      max-width: 400px;
+      max-width: 300px;
     }
   }
 
 @media (min-width: 500px) {
     .gambar {
-      max-width: 500px;
+      max-width: 300px;
     }
   }
 
 @media (min-width: 600px) {
     .gambar {
-      max-width: 600px;
+      max-width: 300px;
     }
   }
 
 @media (min-width: 700px) {
     .gambar {
-      max-width: 700px;
+      max-width: 300px;
     }
   }
 
 @media (min-width: 800px) {
     .gambar {
-      max-width: 800px;
+      max-width: 300px;
     }
   }
 
